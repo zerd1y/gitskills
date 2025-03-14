@@ -1,5 +1,5 @@
 Creating a new branch is quick and simple.
 hello git.
 Git is a free software.
-I love Git.
-hahahhhh
+working...
+studying...
